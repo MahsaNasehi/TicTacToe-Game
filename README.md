@@ -3,21 +3,21 @@ Tic-Tac-Toe, also known as Noughts and Crosses or Xs and Os, is a classic two-pl
 <img src="https://github.com/MahsaNasehi/TicTacToe-Game/assets/116074621/61c989a0-c4a1-41ed-9043-359700fbf7e2" width="400" height="300">
 
 ## Game Rules
-# Setup:
+### Setup:
 
 A 3x3 grid is drawn or displayed.
 One player is assigned the symbol X and the other O.
-# Gameplay:
+### Gameplay:
 
 Players take turns placing their symbols in empty spaces within the grid.
 The game alternates between the players until one of them wins or the grid is filled.
-# Winning:
+### Winning:
 
 A player wins if they successfully align three of their symbols:
 Horizontally: All symbols in the same row.
 Vertically: All symbols in the same column.
 Diagonally: Symbols aligned from corner to corner.
-# Draw:
+### Draw:
 
 If all spaces in the grid are filled and no player has achieved a winning alignment, the game ends in a draw (also called a tie).
 
