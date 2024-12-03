@@ -1,7 +1,7 @@
 # Tic-Tac-Toe Game
 Tic-Tac-Toe, also known as Noughts and Crosses or Xs and Os, is a classic two-player game often played on a 3x3 grid. 
 
-<img src="https://github.com/MahsaNasehi/TicTacToe-Game/assets/116074621/61c989a0-c4a1-41ed-9043-359700fbf7e2" width="400" height="300">
+<img src="https://github.com/MahsaNasehi/TicTacToe-Game/assets/116074621/61c989a0-c4a1-41ed-9043-359700fbf7e2" width="400" height="500">
 
 ## Game Rules
 ### Setup:
@@ -45,18 +45,18 @@ git clone https://github.com/MahsaNasehi/TicTacToe-Game.git
    
 3. Enter your name and click on **Let's go**.
 
-   <img src="https://github.com/MahsaNasehi/TicTacToe-Game/assets/116074621/08b381b9-8fd7-4485-9eec-170a9c87ae6a" width="400" height="300">
+   <img src="https://github.com/MahsaNasehi/TicTacToe-Game/assets/116074621/08b381b9-8fd7-4485-9eec-170a9c87ae6a" width="400" height="500">
    
 5. Enjoy the game:
     - Click on the **re/start** button.
     - Turn off the audio if you want.
     - Use **menu** button for more options.
 
-      <img src="https://github.com/MahsaNasehi/TicTacToe-Game/assets/116074621/21e04007-d206-4e06-8c27-d1fa822e9807" width="400" height="300">
+      <img src="https://github.com/MahsaNasehi/TicTacToe-Game/assets/116074621/21e04007-d206-4e06-8c27-d1fa822e9807" width="400" height="500">
 
-      <img src="https://github.com/MahsaNasehi/TicTacToe-Game/assets/116074621/de98404f-c2fc-48f6-bfc3-2f33281ac1c3" width="400" height="300">
+      <img src="https://github.com/MahsaNasehi/TicTacToe-Game/assets/116074621/de98404f-c2fc-48f6-bfc3-2f33281ac1c3" width="400" height="500">
 
-      <img src="https://github.com/MahsaNasehi/TicTacToe-Game/assets/116074621/aaf02b39-5df7-4292-86b6-c5f0bbc17812" width="400" height="300">
+      <img src="https://github.com/MahsaNasehi/TicTacToe-Game/assets/116074621/aaf02b39-5df7-4292-86b6-c5f0bbc17812" width="400" height="500">
 
 ## License
 
